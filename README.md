@@ -15,7 +15,7 @@ To document and track my progress while studying Python programming concepts, in
 Each file represents an activity or concept I've practiced. Example:
 - `object_oriented_books.ipynb` – Practice with classes and objects
 - `queue_async_support_center.ipynb` – Async + queue simulation
-– Will add more..
+- Will add more..
 
 ## 🛠️ Note
 
